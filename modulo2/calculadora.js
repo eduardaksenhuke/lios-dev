@@ -21,3 +21,4 @@ function calculadora(valor1, valor2, operacao){
         return valor1 / valor2
     }
     }
+console.log('olá')
