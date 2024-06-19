@@ -9,3 +9,4 @@ else if(numero > 0) {
 else{
     console.log(`o ${numero} e negativo`)
 }
+console.log('bom')
